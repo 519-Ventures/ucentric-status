@@ -4,7 +4,8 @@ date: 2020-11-03 14:30:00
 resolved: false
 severity: down
 affected:
-  - Global
+  - Webhooks
+  - Tag CDN
 section: issue
 ---
 
